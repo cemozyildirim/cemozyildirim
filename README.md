@@ -4,7 +4,9 @@
 </h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-- 🔭 I’m currently working on ["Sütaş"](https://www.sutas.com.tr/), ["Opet"](https://www.opetfuchs.com.tr/tr/), ["Ditaş](https://ditasdeniz.com.tr/tr/#dialog) ,
+- 🔭 I’m currently working on ["Sütaş"](https://www.sutas.com.tr/), ["Opet"](https://www.opetfuchs.com.tr/tr/) ,
+
+- 🤝 The projects I am working on ["Sütaş"](https://www.sutas.com.tr/), ["Opet"](https://www.opetfuchs.com.tr/tr/), ["Ditaş](https://ditasdeniz.com.tr/tr/) , ["BKT - Banka Kombetare Tregtare](https://www.bkt.com.al/) , ["Uzman](https://www.uzmansosyalguvenlik.com/tr/)
 
 - 🌱 I’m currently learning **React** ,
 
