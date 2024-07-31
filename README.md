@@ -1,3 +1,4 @@
+![MasterHead](https://www.smerin.com/static/565c8b3670db248e0bdc848176270d6a/d5941/websites-banner.jpg)
 <h1 align="center">Hi 👋, I'm Cem Özyıldırım</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
@@ -62,9 +63,6 @@
     </a>
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
-    </a>
-    <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40" />
     </a>
     <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
