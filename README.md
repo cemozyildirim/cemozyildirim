@@ -81,5 +81,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cemozyildirim&"
         alt="cemozyildirim" /></p>
 
-
-![snake gif](https://github.com/cemozyildirim/cemozyildirim/blob/output/github-contribution-grid-snake.gif)
