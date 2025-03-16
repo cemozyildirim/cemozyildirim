@@ -4,11 +4,11 @@
 </h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-- 🔭 I’m currently working on ["Sütaş"](https://www.sutas.com.tr/), ["Opet"](https://www.opetfuchs.com.tr/tr/) ,
+- 🔭 I’m currently working on ["Sütaş"](https://www.sutas.com.tr/), ["Opet"](https://www.opetfuchs.com.tr/tr/),["CMG Label"](https://www.cmglabel.com.tr/) ,
 
 - 🤝 The projects I am working on ["Sütaş"](https://www.sutas.com.tr/), ["Opet"](https://www.opetfuchs.com.tr/tr/), ["Ditaş](https://ditasdeniz.com.tr/tr/) , ["BKT - Banka Kombetare Tregtare](https://www.bkt.com.al/) , ["Uzman](https://www.uzmansosyalguvenlik.com/tr/)
 
-- 🌱 I’m currently learning **React** ,
+- 🌱 I’m currently learning **GSAP** ,
 
 - 👨‍💻 All of my projects are available at
 [https://www.linkedin.com/in/cem-%C3%B6zy%C4%B1ld%C4%B1r%C4%B1m-15275789/](https://www.linkedin.com/in/cem-%C3%B6zy%C4%B1ld%C4%B1r%C4%B1m-15275789/) ,
