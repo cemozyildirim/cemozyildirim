@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning **GSAP** ,
 
 - 👨‍💻 All of my projects are available at
-[https://www.linkedin.com/in/cem-%C3%B6zy%C4%B1ld%C4%B1r%C4%B1m-15275789/](https://www.linkedin.com/in/cem-%C3%B6zy%C4%B1ld%C4%B1r%C4%B1m-15275789/) ,
+[https://www.linkedin.com/in/cem-ozyildirim-15275789/](https://www.linkedin.com/in/cem-ozyildirim-15275789/) ,
 <br/>
 <div align="center"> 
   <a href="mailto:ozyildirim.cem@gmail.com">
