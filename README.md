@@ -1,4 +1,4 @@
-![MasterHead](https://www.smerin.com/static/565c8b3670db248e0bdc848176270d6a/d5941/websites-banner.jpg)
+![MasterHead](https://www.gurtour.com.tr/wp-content/uploads/2018/10/tur-1.jpg)
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Cem+Özyıldırım!;" />
 </h1>
@@ -30,20 +30,6 @@
     <img src="https://skillicons.dev/icons?i=webpack,gulp,git,figma,xd" />
 </div>
 <br/>
-<br/>
-<div align="center">
-<h2 align="center">⚡ Stats ⚡</h2>
-<p><img align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=cemozyildirim&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats"
-        alt="streak stats" /></p>
-<br/>
-<p>&nbsp;<img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=cemozyildirim&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10"
-        alt="cemozyildirim" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cemozyildirim&count_private=true&theme=react&border_radius=10"
-        alt="cemozyildirim" /></p>
-</div>
 <hr/>
 <div align="center"> 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thank+you+for+visiting+👋" />
